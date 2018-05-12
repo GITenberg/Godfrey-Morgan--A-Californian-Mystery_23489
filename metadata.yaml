@@ -1,0 +1,62 @@
+_repo: Godfrey-Morgan--A-Californian-Mystery_23489
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: "Godfrey Morgan: A Californian Mystery (French: L'École des Robinsons,\
+  \ literally The School for Robinsons), also published as School for Crusoes, is\
+  \ an 1882 adventure novel by French writer Jules Verne. The novel tells of a wealthy\
+  \ young man, Godfrey Morgan who, with his deportment instructor, Professor T. Artelett,\
+  \ embark from San Francisco, California on a round-the-world ocean voyage. They\
+  \ are cast away on an uninhabited Pacific island where they must endure a series\
+  \ of adversities. Later they encounter an African slave, Carefinotu, brought to\
+  \ the island by cannibals. In the end, the trio manage to work together and survive\
+  \ on the island.\nThe novel is a robinsonade—a play on Daniel Defoe's 1719 novel\
+  \ Robinson Crusoe.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2007-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23489'
+  wikidata: Q1216126
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Detective and mystery stories'
+title: 'Godfrey Morgan: A Californian Mystery'
+url: http://www.gutenberg.org/ebooks/23489
+wikipedia:
+- https://fi.wikipedia.org/wiki/Robinson-koulu
+- https://fr.wikipedia.org/wiki/L%27%C3%89cole_des_Robinsons
+- https://ar.wikipedia.org/wiki/%D8%BA%D9%88%D8%AF%D9%81%D8%B1%D9%8A_%D9%85%D9%88%D8%B1%D8%BA%D8%A7%D9%86
+- https://pt.wikipedia.org/wiki/L%27%C3%A9cole_des_Robinsons
+- https://pl.wikipedia.org/wiki/Szko%C5%82a_Robinson%C3%B3w
+- https://it.wikipedia.org/wiki/La_scuola_dei_Robinson
+- https://cs.wikipedia.org/wiki/%C5%A0kola_robinson%C5%AF
+- https://fa.wikipedia.org/wiki/%D9%85%D8%AF%D8%B1%D8%B3%D9%87_%D8%B1%D8%A7%D8%A8%DB%8C%D9%86%D8%B3%D9%88%D9%86%E2%80%8C%D9%87%D8%A7
+- https://de.wikipedia.org/wiki/Die_Schule_der_Robinsons
+- https://es.wikipedia.org/wiki/Escuela_de_Robinsones
+- https://hy.wikipedia.org/wiki/%D5%8C%D5%B8%D5%A2%D5%AB%D5%B6%D5%A6%D5%B8%D5%B6%D5%B6%D5%A5%D6%80%D5%AB_%D5%A4%D5%BA%D6%80%D5%B8%D6%81%D5%A8
+- https://en.wikipedia.org/wiki/Godfrey_Morgan
+- https://commons.wikimedia.org/wiki/Category:Godfrey_Morgan
+- https://ru.wikipedia.org/wiki/%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD%D0%B7%D0%BE%D0%BD%D0%BE%D0%B2
+- https://ro.wikipedia.org/wiki/%C8%98coala_Robinsonilor
+- https://sv.wikipedia.org/wiki/V%C3%A4gbrytarne_i_Stilla_Hafvet
+- https://fr.wikisource.org/wiki/L%E2%80%99%C3%89cole_des_Robinsons
